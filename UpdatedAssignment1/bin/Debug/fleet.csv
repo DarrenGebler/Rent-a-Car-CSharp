@@ -1,0 +1,6 @@
+Rego,Make,Model,Year,Vehicle Class,NumSeats,Transmission,Fuel,GPS,SunRoof,Colour,DailyRate
+123HCB,Mazda,3,2000,Economy,4,Automatic,Petrol,False,False,Red,50
+897HOI,Mitsubishi,ASX,2000,Family,4,Automatic,Petrol,False,False,Red,80
+809POI,Audi,A3 Cabriolet,2000,Luxury,2,Manual,Petrol,True,False,White,120
+999QWJ,Honda,Odyssey,2014,Commercial,8,Automatic,Diesel,True,False,Grey,130
+123HCD,Honda,2,2010,Economy,8,Automatic,Petrol,False,False,Red,30

@@ -1,0 +1,14 @@
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\bin\Debug\UpdatedAssignment1.exe.config
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\bin\Debug\UpdatedAssignment1.exe
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\bin\Debug\UpdatedAssignment1.pdb
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\bin\Debug\MetroFramework.dll
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\obj\Debug\UpdatedAssignment1.csprojResolveAssemblyReference.cache
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\obj\Debug\UpdatedAssignment1.Form1.resources
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\obj\Debug\UpdatedAssignment1.Properties.Resources.resources
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\obj\Debug\UpdatedAssignment1.csproj.GenerateResource.cache
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\obj\Debug\UpdatedAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\obj\Debug\UpdatedAssignment1.csproj.CopyComplete
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\obj\Debug\UpdatedAssignment1.exe
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\obj\Debug\UpdatedAssignment1.pdb
+C:\Users\darre\source\repos\UpdatedAssignment1\UpdatedAssignment1\bin\Debug\MaterialSkin.dll
